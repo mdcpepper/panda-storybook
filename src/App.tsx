@@ -4,7 +4,6 @@ function App() {
 
   return (
     <>
-      <Button variant="primary" label="Click Me"/>
     </>
   )
 }
